@@ -1,7 +1,7 @@
-path: ../content/YOLOFun/Group10  
-train: /content/YOLOFun/Group10/method1Img20/images
-val: /content/YOLOFun/Group10/test/images  
-test: /content/YOLOFun/Group10/test/images 
+path: ../content/YOLOFun/ChessInLife  
+train: /content/YOLOFun/ChessInLife/train/images
+val: /content/YOLOFun/ChessInLife/test/images  
+test: /content/YOLOFun/ChessInLife/test/images 
 
 nc: 12
 names: ['pawn_white','pawn_black','rock_white','rock_black','knight_white','knight_black','bishop_white','bishop_black','queen_white','queen_black','king_white','king_black']
