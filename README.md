@@ -1,5 +1,4 @@
 # ChessInLife
-![image](https://user-images.githubusercontent.com/49177682/198817372-73668f67-85e9-43ed-acee-304a0e924e5b.png)
 
 A dataset for chess in life, have to say labelling for that was horrible!!!!!
 
@@ -37,3 +36,6 @@ The classes we have:
 Version Control of Yolov5: V6.1 
 
 https://github.com/ultralytics/yolov5/releases/tag/v6.1
+
+
+![image](https://user-images.githubusercontent.com/49177682/198817381-b6df7ecd-29af-4a5d-9a41-e684544c38c0.png)
