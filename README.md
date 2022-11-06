@@ -1,4 +1,7 @@
 # ChessInLife
+
+This github is used to result comparison of AMME4710 Major project. The repo included the dataset of Yolov5 methods and the way we trained it. 
+
 ![image](https://user-images.githubusercontent.com/49177682/198817404-5dc055ce-602f-49b9-8a28-bdc073a2ac62.png)
 
 A dataset for chess in life, have to say labelling for that was horrible!!!!!
