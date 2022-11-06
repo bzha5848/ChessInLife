@@ -1,6 +1,13 @@
 # ChessInLife
 
-This github is used to result comparison of AMME4710 Major project. The repo included the dataset of Yolov5 methods and the way we trained it. 
+This github is used to result comparison of AMME4710 Major project. 
+
+The repo included the dataset of Yolov5 methods and the way we trained it. 
+
+It belongs to Group R with member:
+Henry Chadban SID-490424261
+Bohan Zhang  SID-480170741
+Christos Xenophontos SID-490482401
 
 ![image](https://user-images.githubusercontent.com/49177682/198817404-5dc055ce-602f-49b9-8a28-bdc073a2ac62.png)
 
